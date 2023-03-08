@@ -46,5 +46,17 @@ public class day1 {
 		//Humne vo zindagi guzari hai
 	}
 	
+	@Test
+	public void AshichTest()
+	{
+		System.out.println("We");
+		System.out.println("will");
+		System.out.println("we");
+		System.out.println("will");
+		System.out.println("rock");
+		System.out.println("you");
+		
+	}
+	
 
 }
