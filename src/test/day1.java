@@ -23,7 +23,12 @@ public class day1 {
 		System.out.println("New Hello 1");
 		System.out.println("New Hello 2");
 		System.out.println("New Hello 3");
-		
+		//Pata nahi kis roop me aakar
+		//Narayan mil jayega
+		System.out.println("New Hello 4");
+		System.out.println("New Hello 5");
+		System.out.println("New Hello 6");
+		System.out.println("New Hello 7");
 		
 	}
 	

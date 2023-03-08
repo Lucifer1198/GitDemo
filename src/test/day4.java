@@ -19,6 +19,7 @@ public class day4 {
 	{
 		//Appium
 		System.out.println("MobileLoginHome");
+		System.out.println("Hello again human");
 	}
 	
 	@Test
