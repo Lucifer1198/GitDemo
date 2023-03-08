@@ -16,4 +16,12 @@ public class day2 {
 	{
 		System.out.println("I will execute first");
 	}
+	
+	@Test
+	public void gitTest()
+	{
+		System.out.println("What");
+		System.out.println("the");
+		System.out.println("fuck");
+	}
 }

@@ -30,6 +30,13 @@ public class day3 {
 	public void beforeevery()
 	{
 		System.out.println("BAZINGA");
+		System.out.println("BAZINGA1");
+		System.out.println("BAZINGA2");
+		System.out.println("BAZINGA3");
+		System.out.println("BAZINGA4");
+		System.out.println("BAZINGA5");
+		System.out.println("BAZINGA6");
+		System.out.println("BAZINGA7");
 	}
 	
 	@AfterMethod

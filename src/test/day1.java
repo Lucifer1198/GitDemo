@@ -42,6 +42,8 @@ public class day1 {
 	public void SecondTest()
 	{
 		System.out.println("Bye");
+		//Jo guzari na ja saki humse
+		//Humne vo zindagi guzari hai
 	}
 	
 
