@@ -19,6 +19,12 @@ public class day1 {
 	{
 		System.out.println("Hello");
 		Assert.assertTrue(false);
+		
+		System.out.println("New Hello 1");
+		System.out.println("New Hello 2");
+		System.out.println("New Hello 3");
+		
+		
 	}
 	
 	@AfterSuite
